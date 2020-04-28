@@ -1,0 +1,62 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FiltersApplied Component tests FiltersApplied Snapshot 1`] = `
+<section
+  className="sc-AxirZ fAmXjD"
+  data-testid="FiltersApplied"
+>
+  <div
+    className="sc-AxiKw jwJFgJ"
+  >
+    <div
+      className="sc-AxhUy ilSPof"
+    >
+      <svg
+        width={14.63}
+      />
+      <label>
+        34 - 128
+      </label>
+    </div>
+    <div
+      className="sc-AxhUy ilSPof"
+    >
+      <svg
+        width={17.7}
+      />
+      <label>
+        34
+      </label>
+    </div>
+    <div
+      className="sc-AxhUy ilSPof"
+    >
+      <svg
+        height={17.7}
+      />
+      <label>
+        128
+      </label>
+    </div>
+  </div>
+  <div
+    className="sc-AxhCb jedUDk"
+  >
+    <svg
+      className="sc-AxjAm dtmqRL"
+      color="Red"
+      width={14.24}
+    />
+    <svg
+      className="sc-AxjAm fSpQWU"
+      color="Pink"
+      width={14.24}
+    />
+    <svg
+      className="sc-AxjAm fvaMcT"
+      color="Black"
+      width={14.24}
+    />
+  </div>
+</section>
+`;

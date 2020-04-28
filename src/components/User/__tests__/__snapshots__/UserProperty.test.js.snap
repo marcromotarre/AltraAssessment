@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`User Property Component tests render UserProperty Snapshot 1`] = `
+<div
+  className="sc-AxjAm cDIZLj"
+  data-testid="user-property"
+>
+  <label>
+    text
+  </label>
+</div>
+`;

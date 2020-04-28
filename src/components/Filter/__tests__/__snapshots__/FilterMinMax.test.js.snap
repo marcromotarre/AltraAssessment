@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FilterMinMax Component tests FilterMinMax Snapshot 1`] = `
+<section
+  className="sc-AxjAm cUObhj"
+>
+  <label
+    className="sc-AxirZ pTpRo"
+  >
+    title
+    :
+  </label>
+  <input
+    className="sc-AxiKw kJgCdA"
+    data-testid="title-filterminmax-min-input"
+    onChange={[Function]}
+    value="23"
+  />
+  <label
+    className="sc-AxhCb iAbugP"
+  >
+    min: 
+    10
+  </label>
+  <label
+    className="sc-AxhUy cUdIeG"
+  >
+    to
+  </label>
+  <input
+    className="sc-AxgMl eFELnN"
+    data-testid="title-filterminmax-max-input"
+    onChange={[Function]}
+    value="45"
+  />
+  <label
+    className="sc-AxheI cUaqWs"
+  >
+    max: 
+    12
+  </label>
+  <button
+    className="sc-Axmtr fdTANV"
+    data-testid="title-filterminmax-show-hide-button"
+    onClick={[Function]}
+  >
+    <svg
+      width={11.43}
+    />
+  </button>
+</section>
+`;

@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Profession Component tests Profession Snapshot 1`] = `
+<section
+  className="sc-AxjAm hHoNSr"
+>
+  <label>
+    profession name
+  </label>
+</section>
+`;

@@ -1,0 +1,380 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`User Route Component User Route Snapshot 1`] = `
+<body>
+  <div>
+    <div
+      style="outline: none;"
+      tabindex="-1"
+    >
+      <div
+        data-testid="UserSite"
+      >
+        <div
+          class="sc-fzqNJr gwpASK"
+        >
+          <a
+            href="/"
+          >
+            <svg
+              width="25"
+            />
+          </a>
+        </div>
+        <section
+          class="sc-fzpans bVyTxg"
+          data-testid="actual-user-container"
+        >
+          <img
+            class="sc-fzplWN dysndN"
+            data-testid="actual-user-image"
+            src="image1"
+          />
+          <label
+            class="sc-fznyAO hFMGcT"
+            data-testid="actual-user-name"
+          >
+            one
+          </label>
+          <div
+            class="sc-fznZeY klUTXZ"
+            data-testid="actual-user-properties"
+          >
+            <div
+              class="sc-AxhCb gfcCsk"
+              data-testid="user-property"
+            >
+              <svg
+                width="28.39"
+              />
+               
+              <label
+                class="big"
+              >
+                10
+              </label>
+            </div>
+            <div
+              class="sc-AxhCb gfcCsk"
+              data-testid="user-property"
+            >
+              <svg
+                height="33.36"
+              />
+              <label
+                class="big"
+              >
+                50
+              </label>
+            </div>
+            <div
+              class="sc-AxhCb gfcCsk"
+              data-testid="user-property"
+            >
+              <svg
+                width="33.36"
+              />
+              <label
+                class="big"
+              >
+                40
+              </label>
+            </div>
+            <div
+              class="sc-AxhCb gfcCsk"
+              data-testid="user-property"
+            >
+              <svg
+                class="sc-AxgMl OQqCX"
+                color="Red"
+                width="39.5"
+              />
+            </div>
+          </div>
+          <section
+            class="sc-fzokOt hTyMhG"
+            data-testid="actual-user-professions"
+          >
+            <section
+              class="sc-AxjAm eDLRgU"
+            >
+              <section
+                class="sc-AxirZ gXuGhx"
+              >
+                <svg
+                  width="25.05"
+                />
+                <label>
+                  Professions
+                </label>
+              </section>
+              <label
+                class="sc-AxiKw jbzapM"
+              >
+                <label>
+                  3
+                </label>
+              </label>
+            </section>
+            <div
+              class="sc-fzqBZW ipBCnN"
+            >
+              <a
+                href="/profession/profession_1"
+              >
+                <section
+                  class="sc-AxhUy gEDYiZ"
+                >
+                  <label>
+                    profession_1
+                  </label>
+                </section>
+              </a>
+              <a
+                href="/profession/profession_2"
+              >
+                <section
+                  class="sc-AxhUy gEDYiZ"
+                >
+                  <label>
+                    profession_2
+                  </label>
+                </section>
+              </a>
+              <a
+                href="/profession/profession_3"
+              >
+                <section
+                  class="sc-AxhUy gEDYiZ"
+                >
+                  <label>
+                    profession_3
+                  </label>
+                </section>
+              </a>
+            </div>
+          </section>
+          <section
+            class="sc-fzokOt hTyMhG"
+            data-testid="actual-user-friends"
+          >
+            <section
+              class="sc-AxjAm eDLRgU"
+            >
+              <section
+                class="sc-AxirZ gXuGhx"
+              >
+                <svg
+                  width="31.5"
+                />
+                <label>
+                  Friends
+                </label>
+              </section>
+              <label
+                class="sc-AxiKw jbzapM"
+              >
+                <label>
+                  2
+                </label>
+              </label>
+            </section>
+            <div>
+              <a
+                href="/user/1"
+              >
+                <section
+                  class="sc-AxheI cuTdVv"
+                >
+                  <img
+                    class="sc-Axmtr hcomXe"
+                    data-testid="user-image"
+                    src="image2"
+                  />
+                  <div
+                    class="sc-AxmLO cIzxDa"
+                  >
+                    <label
+                      class="sc-fzozJi gpkgCw"
+                      data-testid="user-name"
+                    >
+                      two
+                    </label>
+                    <div
+                      class="sc-fzoLsD livjYH"
+                      data-testid="user-properties"
+                    >
+                      <div
+                        class="sc-AxhCb gfcCsk"
+                        data-testid="user-property"
+                      >
+                        <svg
+                          width="14.63"
+                        />
+                         
+                        <label>
+                          15
+                        </label>
+                      </div>
+                      <div
+                        class="sc-AxhCb gfcCsk"
+                        data-testid="user-property"
+                      >
+                        <svg
+                          height="17.7"
+                        />
+                        <label>
+                          70
+                        </label>
+                      </div>
+                      <div
+                        class="sc-AxhCb gfcCsk"
+                        data-testid="user-property"
+                      >
+                        <svg
+                          width="17.7"
+                        />
+                        <label>
+                          40
+                        </label>
+                      </div>
+                      <div
+                        class="sc-AxhCb gfcCsk"
+                        data-testid="user-property"
+                      >
+                        <svg
+                          class="sc-AxgMl grTrYX"
+                          color="Green"
+                          width="15.26"
+                        />
+                      </div>
+                      <div
+                        class="sc-AxhCb gfcCsk"
+                        data-testid="user-property"
+                      >
+                        <svg
+                          width="14.34"
+                        />
+                        <label>
+                          1
+                        </label>
+                      </div>
+                      <div
+                        class="sc-AxhCb gfcCsk"
+                        data-testid="user-property"
+                      >
+                        <svg
+                          width="15.26"
+                        />
+                         
+                        <label>
+                          1
+                        </label>
+                      </div>
+                    </div>
+                  </div>
+                </section>
+              </a>
+              <a
+                href="/user/2"
+              >
+                <section
+                  class="sc-AxheI cuTdVv"
+                >
+                  <img
+                    class="sc-Axmtr hcomXe"
+                    data-testid="user-image"
+                    src="image3"
+                  />
+                  <div
+                    class="sc-AxmLO cIzxDa"
+                  >
+                    <label
+                      class="sc-fzozJi gpkgCw"
+                      data-testid="user-name"
+                    >
+                      three
+                    </label>
+                    <div
+                      class="sc-fzoLsD livjYH"
+                      data-testid="user-properties"
+                    >
+                      <div
+                        class="sc-AxhCb gfcCsk"
+                        data-testid="user-property"
+                      >
+                        <svg
+                          width="14.63"
+                        />
+                         
+                        <label>
+                          40
+                        </label>
+                      </div>
+                      <div
+                        class="sc-AxhCb gfcCsk"
+                        data-testid="user-property"
+                      >
+                        <svg
+                          height="17.7"
+                        />
+                        <label>
+                          120
+                        </label>
+                      </div>
+                      <div
+                        class="sc-AxhCb gfcCsk"
+                        data-testid="user-property"
+                      >
+                        <svg
+                          width="17.7"
+                        />
+                        <label>
+                          100
+                        </label>
+                      </div>
+                      <div
+                        class="sc-AxhCb gfcCsk"
+                        data-testid="user-property"
+                      >
+                        <svg
+                          class="sc-AxgMl OQqCX"
+                          color="Red"
+                          width="15.26"
+                        />
+                      </div>
+                      <div
+                        class="sc-AxhCb gfcCsk"
+                        data-testid="user-property"
+                      >
+                        <svg
+                          width="14.34"
+                        />
+                        <label>
+                          2
+                        </label>
+                      </div>
+                      <div
+                        class="sc-AxhCb gfcCsk"
+                        data-testid="user-property"
+                      >
+                        <svg
+                          width="15.26"
+                        />
+                         
+                        <label>
+                          2
+                        </label>
+                      </div>
+                    </div>
+                  </div>
+                </section>
+              </a>
+            </div>
+          </section>
+        </section>
+      </div>
+    </div>
+  </div>
+</body>
+`;

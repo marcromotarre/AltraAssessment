@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Section Title Component tests SectionTitle Snapshot 1`] = `
+<section
+  className="sc-AxjAm eDLRgU"
+>
+  <section
+    className="sc-AxirZ gXuGhx"
+  >
+    <svg
+      width={32}
+    >
+      text
+    </svg>
+    <label>
+      section name
+    </label>
+  </section>
+  <label
+    className="sc-AxiKw jbzapM"
+  >
+    <label>
+      5
+    </label>
+  </label>
+</section>
+`;

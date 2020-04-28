@@ -1,0 +1,253 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`User Element Component tests render UserElement 1`] = `
+<section
+  className="sc-fzpans bVyTxg"
+  data-testid="actual-user-container"
+>
+  <img
+    className="sc-fzplWN dysndN"
+    data-testid="actual-user-image"
+    src="imagepath"
+  />
+  <label
+    className="sc-fznyAO hFMGcT"
+    data-testid="actual-user-name"
+  >
+    user name
+  </label>
+  <div
+    className="sc-fznZeY klUTXZ"
+    data-testid="actual-user-properties"
+  >
+    <div
+      className="sc-AxhCb gfcCsk"
+      data-testid="user-property"
+    >
+      <svg
+        width={28.39}
+      />
+       
+      <label
+        className="big"
+      >
+        20
+      </label>
+    </div>
+    <div
+      className="sc-AxhCb gfcCsk"
+      data-testid="user-property"
+    >
+      <svg
+        height={33.36}
+      />
+      <label
+        className="big"
+      >
+        150
+      </label>
+    </div>
+    <div
+      className="sc-AxhCb gfcCsk"
+      data-testid="user-property"
+    >
+      <svg
+        width={33.36}
+      />
+      <label
+        className="big"
+      >
+        70
+      </label>
+    </div>
+    <div
+      className="sc-AxhCb gfcCsk"
+      data-testid="user-property"
+    >
+      <svg
+        className="sc-AxgMl grTrYX"
+        color="Green"
+        width={39.5}
+      />
+    </div>
+  </div>
+  <section
+    className="sc-fzokOt hTyMhG"
+    data-testid="actual-user-professions"
+  >
+    <section
+      className="sc-AxjAm eDLRgU"
+    >
+      <section
+        className="sc-AxirZ gXuGhx"
+      >
+        <svg
+          width={25.05}
+        />
+        <label>
+          Professions
+        </label>
+      </section>
+      <label
+        className="sc-AxiKw jbzapM"
+      >
+        <label>
+          2
+        </label>
+      </label>
+    </section>
+    <div
+      className="sc-fzqBZW ipBCnN"
+    >
+      <a
+        href="/profession/profession_1"
+        onClick={[Function]}
+      >
+        <section
+          className="sc-AxhUy gEDYiZ"
+        >
+          <label>
+            profession_1
+          </label>
+        </section>
+      </a>
+      <a
+        href="/profession/profession_2"
+        onClick={[Function]}
+      >
+        <section
+          className="sc-AxhUy gEDYiZ"
+        >
+          <label>
+            profession_2
+          </label>
+        </section>
+      </a>
+    </div>
+  </section>
+  <section
+    className="sc-fzokOt hTyMhG"
+    data-testid="actual-user-friends"
+  >
+    <section
+      className="sc-AxjAm eDLRgU"
+    >
+      <section
+        className="sc-AxirZ gXuGhx"
+      >
+        <svg
+          width={31.5}
+        />
+        <label>
+          Friends
+        </label>
+      </section>
+      <label
+        className="sc-AxiKw jbzapM"
+      >
+        <label>
+          1
+        </label>
+      </label>
+    </section>
+    <div>
+      <a
+        href="/user/friend_id"
+        onClick={[Function]}
+      >
+        <section
+          className="sc-AxheI cuTdVv"
+        >
+          <img
+            className="sc-Axmtr hcomXe"
+            data-testid="user-image"
+            src="imagepath"
+          />
+          <div
+            className="sc-AxmLO cIzxDa"
+          >
+            <label
+              className="sc-fzozJi gpkgCw"
+              data-testid="user-name"
+            >
+              user name
+            </label>
+            <div
+              className="sc-fzoLsD livjYH"
+              data-testid="user-properties"
+            >
+              <div
+                className="sc-AxhCb gfcCsk"
+                data-testid="user-property"
+              >
+                <svg
+                  width={14.63}
+                />
+                 
+                <label>
+                  20
+                </label>
+              </div>
+              <div
+                className="sc-AxhCb gfcCsk"
+                data-testid="user-property"
+              >
+                <svg
+                  height={17.7}
+                />
+                <label>
+                  150
+                </label>
+              </div>
+              <div
+                className="sc-AxhCb gfcCsk"
+                data-testid="user-property"
+              >
+                <svg
+                  width={17.7}
+                />
+                <label>
+                  70
+                </label>
+              </div>
+              <div
+                className="sc-AxhCb gfcCsk"
+                data-testid="user-property"
+              >
+                <svg
+                  className="sc-AxgMl grTrYX"
+                  color="Green"
+                  width={15.26}
+                />
+              </div>
+              <div
+                className="sc-AxhCb gfcCsk"
+                data-testid="user-property"
+              >
+                <svg
+                  width={14.34}
+                />
+                <label>
+                  4
+                </label>
+              </div>
+              <div
+                className="sc-AxhCb gfcCsk"
+                data-testid="user-property"
+              >
+                <svg
+                  width={15.26}
+                />
+                 
+                <label>
+                  3
+                </label>
+              </div>
+            </div>
+          </div>
+        </section>
+      </a>
+    </div>
+  </section>
+</section>
+`;

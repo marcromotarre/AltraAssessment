@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FilterMultipleSelection Component tests FilterMultipleSelection Snapshot 1`] = `
+<section
+  className="sc-AxjAm gTqIvE"
+>
+  <label
+    className="sc-AxirZ emtTfs"
+  >
+    title
+    :
+  </label>
+  <section
+    className="sc-AxiKw cmRZTH"
+  >
+    <button
+      data-testid="title-button-0"
+      id={0}
+      onClick={[Function]}
+    >
+      <div />
+    </button>
+    <button
+      data-testid="title-button-1"
+      id={1}
+      onClick={[Function]}
+    >
+      <div />
+    </button>
+    <button
+      data-testid="title-button-2"
+      id={2}
+      onClick={[Function]}
+    >
+      <div />
+    </button>
+  </section>
+</section>
+`;

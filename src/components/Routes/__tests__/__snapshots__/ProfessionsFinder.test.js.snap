@@ -1,0 +1,252 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`User Route Component User Route Snapshot 1`] = `
+<body>
+  <div>
+    <div
+      style="outline: none;"
+      tabindex="-1"
+    >
+      <section
+        data-testid="ProfessionSite"
+      >
+        <div
+          class="sc-fzokOt khFfoJ"
+        >
+          <div
+            class="sc-AxirZ eEbsrJ"
+          >
+            <a
+              href="/"
+            >
+              <svg
+                width="25"
+              />
+            </a>
+          </div>
+          <svg
+            width="49.83"
+          >
+             
+          </svg>
+          <section
+            class="sc-AxjAm hHoNSr"
+          >
+            <label>
+              profession_1
+            </label>
+          </section>
+          <div
+            class="sc-fzpans iRGLvn true"
+          >
+            <svg
+              class="sc-fzplWN hZJcUG"
+              data-testid="search-icon"
+              width="21.42"
+            />
+            <input
+              class="sc-fznyAO hVkSWH"
+              data-testid="search-input"
+              value=""
+            />
+          </div>
+        </div>
+        <div
+          class="sc-fzoLsD bLrCsw"
+        >
+          <a
+            href="/user/0"
+          >
+            <section
+              class="sc-AxhUy ikKUnn"
+            >
+              <img
+                class="sc-AxgMl kIBvbX"
+                data-testid="user-image"
+                src="image1"
+              />
+              <div
+                class="sc-AxheI dJYnZY"
+              >
+                <label
+                  class="sc-Axmtr gjpNkM"
+                  data-testid="user-name"
+                >
+                  one
+                </label>
+                <div
+                  class="sc-AxmLO iTqPkU"
+                  data-testid="user-properties"
+                >
+                  <div
+                    class="sc-AxiKw bdxaEw"
+                    data-testid="user-property"
+                  >
+                    <svg
+                      width="14.63"
+                    />
+                     
+                    <label>
+                      10
+                    </label>
+                  </div>
+                  <div
+                    class="sc-AxiKw bdxaEw"
+                    data-testid="user-property"
+                  >
+                    <svg
+                      height="17.7"
+                    />
+                    <label>
+                      50
+                    </label>
+                  </div>
+                  <div
+                    class="sc-AxiKw bdxaEw"
+                    data-testid="user-property"
+                  >
+                    <svg
+                      width="17.7"
+                    />
+                    <label>
+                      40
+                    </label>
+                  </div>
+                  <div
+                    class="sc-AxiKw bdxaEw"
+                    data-testid="user-property"
+                  >
+                    <svg
+                      class="sc-AxhCb ibBHog"
+                      color="Red"
+                      width="15.26"
+                    />
+                  </div>
+                  <div
+                    class="sc-AxiKw bdxaEw"
+                    data-testid="user-property"
+                  >
+                    <svg
+                      width="14.34"
+                    />
+                    <label>
+                      3
+                    </label>
+                  </div>
+                  <div
+                    class="sc-AxiKw bdxaEw"
+                    data-testid="user-property"
+                  >
+                    <svg
+                      width="15.26"
+                    />
+                     
+                    <label>
+                      2
+                    </label>
+                  </div>
+                </div>
+              </div>
+            </section>
+          </a>
+          <a
+            href="/user/2"
+          >
+            <section
+              class="sc-AxhUy ikKUnn"
+            >
+              <img
+                class="sc-AxgMl kIBvbX"
+                data-testid="user-image"
+                src="image3"
+              />
+              <div
+                class="sc-AxheI dJYnZY"
+              >
+                <label
+                  class="sc-Axmtr gjpNkM"
+                  data-testid="user-name"
+                >
+                  three
+                </label>
+                <div
+                  class="sc-AxmLO iTqPkU"
+                  data-testid="user-properties"
+                >
+                  <div
+                    class="sc-AxiKw bdxaEw"
+                    data-testid="user-property"
+                  >
+                    <svg
+                      width="14.63"
+                    />
+                     
+                    <label>
+                      40
+                    </label>
+                  </div>
+                  <div
+                    class="sc-AxiKw bdxaEw"
+                    data-testid="user-property"
+                  >
+                    <svg
+                      height="17.7"
+                    />
+                    <label>
+                      120
+                    </label>
+                  </div>
+                  <div
+                    class="sc-AxiKw bdxaEw"
+                    data-testid="user-property"
+                  >
+                    <svg
+                      width="17.7"
+                    />
+                    <label>
+                      100
+                    </label>
+                  </div>
+                  <div
+                    class="sc-AxiKw bdxaEw"
+                    data-testid="user-property"
+                  >
+                    <svg
+                      class="sc-AxhCb ibBHog"
+                      color="Red"
+                      width="15.26"
+                    />
+                  </div>
+                  <div
+                    class="sc-AxiKw bdxaEw"
+                    data-testid="user-property"
+                  >
+                    <svg
+                      width="14.34"
+                    />
+                    <label>
+                      2
+                    </label>
+                  </div>
+                  <div
+                    class="sc-AxiKw bdxaEw"
+                    data-testid="user-property"
+                  >
+                    <svg
+                      width="15.26"
+                    />
+                     
+                    <label>
+                      2
+                    </label>
+                  </div>
+                </div>
+              </div>
+            </section>
+          </a>
+        </div>
+      </section>
+    </div>
+  </div>
+</body>
+`;

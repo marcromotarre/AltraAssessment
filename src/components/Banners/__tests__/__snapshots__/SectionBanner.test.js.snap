@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Section Banner Component tests SectionBanner Snapshot 1`] = `
+<div
+  className="sc-AxjAm hCXQxe"
+>
+  <a
+    aria-current="page"
+    href="/"
+    onClick={[Function]}
+  >
+    <svg
+      width={25}
+    />
+  </a>
+</div>
+`;

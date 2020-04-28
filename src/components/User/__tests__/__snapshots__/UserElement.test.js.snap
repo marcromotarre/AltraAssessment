@@ -1,0 +1,95 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`User Element Component tests render UserElement Snapshot 1`] = `
+<section
+  className="sc-AxiKw gZriPm"
+>
+  <img
+    className="sc-AxhCb eTSSEI"
+    data-testid="user-image"
+    src="imagepath"
+  />
+  <div
+    className="sc-AxhUy QOkiE"
+  >
+    <label
+      className="sc-AxgMl ijardh"
+      data-testid="user-name"
+    >
+      user name
+    </label>
+    <div
+      className="sc-AxheI jYVyby"
+      data-testid="user-properties"
+    >
+      <div
+        className="sc-AxjAm cDIZLj"
+        data-testid="user-property"
+      >
+        <svg
+          width={14.63}
+        />
+         
+        <label>
+          20
+        </label>
+      </div>
+      <div
+        className="sc-AxjAm cDIZLj"
+        data-testid="user-property"
+      >
+        <svg
+          height={17.7}
+        />
+        <label>
+          150
+        </label>
+      </div>
+      <div
+        className="sc-AxjAm cDIZLj"
+        data-testid="user-property"
+      >
+        <svg
+          width={17.7}
+        />
+        <label>
+          70
+        </label>
+      </div>
+      <div
+        className="sc-AxjAm cDIZLj"
+        data-testid="user-property"
+      >
+        <svg
+          className="sc-AxirZ itfaLk"
+          color="Green"
+          width={15.26}
+        />
+      </div>
+      <div
+        className="sc-AxjAm cDIZLj"
+        data-testid="user-property"
+      >
+        <svg
+          width={14.34}
+        />
+        <label>
+          2
+        </label>
+      </div>
+      <div
+        className="sc-AxjAm cDIZLj"
+        data-testid="user-property"
+      >
+        <svg
+          width={15.26}
+        />
+         
+        <label>
+          3
+        </label>
+      </div>
+    </div>
+  </div>
+</section>
+`;

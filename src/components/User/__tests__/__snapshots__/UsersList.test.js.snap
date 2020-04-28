@@ -1,0 +1,208 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Users List Component tests render UsersList Snapshot 1`] = `
+<div
+  className="sc-AxmLO gmopCH"
+>
+  <a
+    href="/user/0"
+    onClick={[Function]}
+  >
+    <section
+      className="sc-AxiKw gZriPm"
+    >
+      <img
+        className="sc-AxhCb eTSSEI"
+        data-testid="user-image"
+        src="image1"
+      />
+      <div
+        className="sc-AxhUy QOkiE"
+      >
+        <label
+          className="sc-AxgMl ijardh"
+          data-testid="user-name"
+        >
+          one
+        </label>
+        <div
+          className="sc-AxheI jYVyby"
+          data-testid="user-properties"
+        >
+          <div
+            className="sc-AxjAm cDIZLj"
+            data-testid="user-property"
+          >
+            <svg
+              width={14.63}
+            />
+             
+            <label>
+              10
+            </label>
+          </div>
+          <div
+            className="sc-AxjAm cDIZLj"
+            data-testid="user-property"
+          >
+            <svg
+              height={17.7}
+            />
+            <label>
+              50
+            </label>
+          </div>
+          <div
+            className="sc-AxjAm cDIZLj"
+            data-testid="user-property"
+          >
+            <svg
+              width={17.7}
+            />
+            <label>
+              40
+            </label>
+          </div>
+          <div
+            className="sc-AxjAm cDIZLj"
+            data-testid="user-property"
+          >
+            <svg
+              className="sc-AxirZ eMVPxk"
+              color="Red"
+              width={15.26}
+            />
+          </div>
+          <div
+            className="sc-AxjAm cDIZLj"
+            data-testid="user-property"
+          >
+            <svg
+              width={14.34}
+            />
+            <label>
+              3
+            </label>
+          </div>
+          <div
+            className="sc-AxjAm cDIZLj"
+            data-testid="user-property"
+          >
+            <svg
+              width={15.26}
+            />
+             
+            <label>
+              2
+            </label>
+          </div>
+        </div>
+      </div>
+    </section>
+  </a>
+  <a
+    href="/user/1"
+    onClick={[Function]}
+  >
+    <section
+      className="sc-AxiKw gZriPm"
+    >
+      <img
+        className="sc-AxhCb eTSSEI"
+        data-testid="user-image"
+        src="image2"
+      />
+      <div
+        className="sc-AxhUy QOkiE"
+      >
+        <label
+          className="sc-AxgMl ijardh"
+          data-testid="user-name"
+        >
+          two
+        </label>
+        <div
+          className="sc-AxheI jYVyby"
+          data-testid="user-properties"
+        >
+          <div
+            className="sc-AxjAm cDIZLj"
+            data-testid="user-property"
+          >
+            <svg
+              width={14.63}
+            />
+             
+            <label>
+              15
+            </label>
+          </div>
+          <div
+            className="sc-AxjAm cDIZLj"
+            data-testid="user-property"
+          >
+            <svg
+              height={17.7}
+            />
+            <label>
+              70
+            </label>
+          </div>
+          <div
+            className="sc-AxjAm cDIZLj"
+            data-testid="user-property"
+          >
+            <svg
+              width={17.7}
+            />
+            <label>
+              40
+            </label>
+          </div>
+          <div
+            className="sc-AxjAm cDIZLj"
+            data-testid="user-property"
+          >
+            <svg
+              className="sc-AxirZ itfaLk"
+              color="Green"
+              width={15.26}
+            />
+          </div>
+          <div
+            className="sc-AxjAm cDIZLj"
+            data-testid="user-property"
+          >
+            <svg
+              width={14.34}
+            />
+            <label>
+              1
+            </label>
+          </div>
+          <div
+            className="sc-AxjAm cDIZLj"
+            data-testid="user-property"
+          >
+            <svg
+              width={15.26}
+            />
+             
+            <label>
+              1
+            </label>
+          </div>
+        </div>
+      </div>
+    </section>
+  </a>
+  <button
+    className="sc-Axmtr bXIkFr"
+    onClick={[Function]}
+  >
+    <label>
+      Load more users
+    </label>
+  </button>
+</div>
+`;

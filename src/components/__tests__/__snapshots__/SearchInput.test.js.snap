@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Search Component tests render SearchInput Snapshot 1`] = `
+<div
+  className="sc-AxjAm bSRsuE true"
+>
+  <svg
+    className="sc-AxirZ hbMWzL"
+    data-testid="search-icon"
+    width={21.42}
+  />
+  <input
+    className="sc-AxiKw eaUUbu"
+    data-testid="search-input"
+    onChange={[Function]}
+    value=""
+  />
+</div>
+`;

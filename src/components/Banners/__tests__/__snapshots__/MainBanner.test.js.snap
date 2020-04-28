@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Main Banner Component tests MainBanner Snapshot 1`] = `
+<div
+  className="sc-AxjAm dCtgNG"
+>
+  <div
+    className="sc-AxirZ bnKdnV"
+  >
+    <svg
+      className="sc-AxiKw iKXCa"
+    />
+  </div>
+  <label>
+    town name
+  </label>
+  <button
+    className="sc-AxhCb bjuFrh"
+    onClick={[Function]}
+  >
+    <svg
+      width={21.5}
+    />
+  </button>
+</div>
+`;

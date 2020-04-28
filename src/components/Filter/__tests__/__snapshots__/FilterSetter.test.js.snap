@@ -1,0 +1,186 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FilterSetter Component FilterSetter Snapshot 1`] = `
+<body>
+  <div>
+    <section
+      class="sc-fzplWN hCinyB"
+      data-testid="FilterSetter"
+    >
+      <section
+        class="sc-fznyAO epeGvV"
+      >
+        ( 1000 )
+      </section>
+      <section
+        class="sc-fznKkj rsgQJ"
+      >
+        <div
+          class="sc-fznZeY jHoiIA"
+        >
+          <section
+            class="sc-AxjAm cUObhj"
+          >
+            <label
+              class="sc-AxirZ pTpRo"
+            >
+              Age
+              :
+            </label>
+            <input
+              class="sc-AxiKw kJgCdA"
+              data-testid="Age-filterminmax-min-input"
+              value=""
+            />
+            <label
+              class="sc-AxhCb iAbugP"
+            >
+              min: 
+              Infinity
+            </label>
+            <label
+              class="sc-AxhUy cUdIeG"
+            >
+              to
+            </label>
+            <input
+              class="sc-AxgMl eFELnN"
+              data-testid="Age-filterminmax-max-input"
+              value=""
+            />
+            <label
+              class="sc-AxheI cUaqWs"
+            >
+              max: 
+              -Infinity
+            </label>
+            <button
+              class="sc-Axmtr fdTANV"
+              data-testid="Age-filterminmax-show-hide-button"
+            >
+              <svg
+                width="11.43"
+              />
+            </button>
+          </section>
+        </div>
+        <div
+          class="sc-fznZeY jHoiIA"
+        >
+          <section
+            class="sc-AxjAm cUObhj"
+          >
+            <label
+              class="sc-AxirZ pTpRo"
+            >
+              Height
+              :
+            </label>
+            <input
+              class="sc-AxiKw kJgCdA"
+              data-testid="Height-filterminmax-min-input"
+              value=""
+            />
+            <label
+              class="sc-AxhCb iAbugP"
+            >
+              min: 
+              Infinity
+            </label>
+            <label
+              class="sc-AxhUy cUdIeG"
+            >
+              to
+            </label>
+            <input
+              class="sc-AxgMl eFELnN"
+              data-testid="Height-filterminmax-max-input"
+              value=""
+            />
+            <label
+              class="sc-AxheI cUaqWs"
+            >
+              max: 
+              -Infinity
+            </label>
+            <button
+              class="sc-Axmtr fdTANV"
+              data-testid="Height-filterminmax-show-hide-button"
+            >
+              <svg
+                width="11.43"
+              />
+            </button>
+          </section>
+        </div>
+        <div
+          class="sc-fznZeY jHoiIA"
+        >
+          <section
+            class="sc-AxjAm cUObhj"
+          >
+            <label
+              class="sc-AxirZ pTpRo"
+            >
+              Weight
+              :
+            </label>
+            <input
+              class="sc-AxiKw kJgCdA"
+              data-testid="Weight-filterminmax-min-input"
+              value=""
+            />
+            <label
+              class="sc-AxhCb iAbugP"
+            >
+              min: 
+              Infinity
+            </label>
+            <label
+              class="sc-AxhUy cUdIeG"
+            >
+              to
+            </label>
+            <input
+              class="sc-AxgMl eFELnN"
+              data-testid="Weight-filterminmax-max-input"
+              value=""
+            />
+            <label
+              class="sc-AxheI cUaqWs"
+            >
+              max: 
+              -Infinity
+            </label>
+            <button
+              class="sc-Axmtr fdTANV"
+              data-testid="Weight-filterminmax-show-hide-button"
+            >
+              <svg
+                width="11.43"
+              />
+            </button>
+          </section>
+        </div>
+        <div
+          class="sc-fznZeY jHoiIA"
+        >
+          <section
+            class="sc-fzozJi cTUUNl"
+          >
+            <label
+              class="sc-fzoLsD nKiEE"
+            >
+              Hair Color
+              :
+            </label>
+            <section
+              class="sc-fzpans fNiaj"
+            />
+          </section>
+        </div>
+      </section>
+    </section>
+  </div>
+</body>
+`;

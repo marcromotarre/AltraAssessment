@@ -1,0 +1,11 @@
+<svg viewBox="0 0 15.629 20.793">
+  <g id="XMLID_1429_" transform="translate(-3)">
+    <path id="XMLID_48_" d="M17.269,21.5H3.5v.43a1.291,1.291,0,0,0,1.291,1.291H15.978a1.291,1.291,0,0,0,1.291-1.291Z" transform="translate(0 -2.928)" fill="none" stroke="#303c42" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+    <path id="XMLID_1430_" d="M13.8,4.372a2.151,2.151,0,1,1-4.3,0C9.5,3.184,11.651.5,11.651.5a9.269,9.269,0,0,0,.861,1.721C12.995,2.985,13.8,3.441,13.8,4.372Z" transform="translate(-0.837)" fill="none" stroke="#303c42" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="XMLID_1431_" y1="2.151" stroke-width="1" transform="translate(10.815 5.663)" stroke="#303c42" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" fill="none"/>
+    <circle id="XMLID_1432_" cx="1" cy="1" r="1" stroke-width="1" transform="translate(16.129 16.5)" stroke="#303c42" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" fill="none"/>
+    <line id="XMLID_1433_" y2="8.681" stroke-width="1" transform="translate(7.803 9.89)" stroke="#303c42" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" fill="none"/>
+    <line id="XMLID_1434_" y1="6.201" stroke-width="1" transform="translate(13.827 12.37)" stroke="#303c42" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" fill="none"/>
+    <path id="XMLID_1435_" d="M12.663,11.082c1.311.559.578,2.582,1.291,2.582s1.291-1.156,1.291-2.582S14.667,8.5,13.954,8.5a20.825,20.825,0,0,1-2.582.43A20.825,20.825,0,0,1,8.791,8.5a1.291,1.291,0,0,0,0,2.582c.339,0,.564-.351.877-.344.521.011,1.182,1.2,1.7,1.2C11.761,11.947,12.306,10.929,12.663,11.082Z" transform="translate(-0.558 -1.116)" fill="none" stroke="#303c42" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+  </g>
+</svg>
