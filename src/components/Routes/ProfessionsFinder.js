@@ -48,7 +48,7 @@ const ProfessionsFinder = () => {
         <SearchInput onSearch={search} />
       </ProfessionHeader>
       <DataManager>
-        <UsersList users={searchedUsers} />
+        <UsersList users={searchedUsers} usersPerPage={15} />
       </DataManager>
     </section>
   );
